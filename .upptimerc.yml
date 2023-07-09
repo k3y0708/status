@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "This is the status board of all pages by k3y0708"
-  introMessage: The status page repository can be fpund at [Github ](https://github.com/k3y0708/status)
+  introMessage: The status page repository can be found at [Github](https://github.com/k3y0708/status)
   navbar:
     - title: Status
       href: /
