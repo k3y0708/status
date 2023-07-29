@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 116,
-    "timeWeek": 155,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 209,
+    "timeDay": 122,
+    "timeWeek": 153,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.atashfaraz.de.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 230,
-    "timeDay": 306,
-    "timeWeek": 213,
-    "timeMonth": 230,
-    "timeYear": 230,
-    "dailyMinutesDown": {
-      "2023-07-28": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 223,
+    "timeDay": 269,
+    "timeWeek": 184,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {}
   }
 ]
