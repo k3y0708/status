@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/atashfaraz.de.ico",
     "slug": "personal-page",
     "status": "up",
-    "uptime": "62.49%",
+    "uptime": "62.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.91%",
+    "uptimeYear": "42.64%",
     "time": 204,
-    "timeDay": 192,
-    "timeWeek": 174,
-    "timeMonth": 200,
+    "timeDay": 194,
+    "timeWeek": 175,
+    "timeMonth": 201,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-01-15": 83,
+      "2025-01-16": 82,
+      "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
@@ -225,8 +226,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 423,
-      "2024-01-17": 18
+      "2024-06-20": 423
     }
   },
   {
@@ -241,12 +241,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 164,
-    "timeWeek": 234,
-    "timeMonth": 199,
+    "timeDay": 185,
+    "timeWeek": 216,
+    "timeMonth": 200,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2024-01-17": 18
-    }
+    "dailyMinutesDown": {}
   }
 ]
